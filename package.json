@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@vaadin/button": "^24.6.1",
+    "@vaadin/form-layout": "^24.6.1",
+    "@vaadin/password-field": "^24.6.1",
+    "@vaadin/text-field": "^24.6.1"
+  }
+}
