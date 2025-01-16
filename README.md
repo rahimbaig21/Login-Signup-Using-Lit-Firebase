@@ -1,4 +1,5 @@
 **Employee Management System**
+
 A modern web application for managing employee data, featuring secure authentication, and CRUD operations on employee records. Built with Lit TypeScript Vaadin Components for the frontend, Firebase Authentication for user management, and PostgreSQL for database storage, with Firebase Cloud Functions handling backend logic.
 
 **Features:**
